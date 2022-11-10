@@ -48,7 +48,6 @@ class TestE2EBeeyor(BaseClass):
         billing.get_cvc_code().send_keys(data_load_beeyor["cvc"])
         self.driver.switch_to.window(checkout_window[0])
         billing.get_place_order().click()
-        print("New changes1")
-        print("New changes")
-        print("New changes")
-        print("New changes")
+        print("One more")
+        print("One more")
+    
