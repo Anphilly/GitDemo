@@ -52,6 +52,10 @@ class TestE2EBeeyor(BaseClass):
 print("Change 11-19-2022")
 print("Change 11-19-2022")
 print("Change 11-19-2022")
+<<<<<<< HEAD
 print("My new changes 11-19")
 print("My new changes 11-19")
 print("My new changes 11-19")
+=======
+print("Last changes")
+>>>>>>> 9f070ad89f47e9852e966ec569dbbb55dc30a1ef
