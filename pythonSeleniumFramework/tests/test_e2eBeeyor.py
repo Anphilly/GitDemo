@@ -50,4 +50,3 @@ class TestE2EBeeyor(BaseClass):
         billing.get_place_order().click()
         print("One more")
         print("One more")
-    
