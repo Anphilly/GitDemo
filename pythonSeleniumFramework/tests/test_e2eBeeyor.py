@@ -50,3 +50,4 @@ class TestE2EBeeyor(BaseClass):
         billing.get_place_order().click()
 
 print("Hello NY")
+print ("Hello Chicago")
